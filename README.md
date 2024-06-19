@@ -1,5 +1,3 @@
-## verify system
-
 ## A Discord Bot for Verify members useing Slash Command
 Introducing our powerful Discord bot designed to enhance the security and management of your server through a seamless verification process. The Verify slash command is an essential tool for server administrators looking to ensure that only trusted and authenticated users gain access to specific channels or roles.
 
