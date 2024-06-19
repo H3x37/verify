@@ -19,14 +19,12 @@ Easy Verification: Users can easily verify themselves with a simple /verify comm
 
 ## Configuration
 
-```json
-{
+```js
 const token = ''; // Replace with your bot token
 const clientId = ''; // Replace with your bot's client ID
 const guildId = ''; // Replace with your server's guild ID
 const verificationChannelId = ''; // Replace with your verification channel ID
 const verifiedRoleId = ''; // Replace with your verified role ID
-}
 ```
 
 ## Support
